@@ -14,6 +14,7 @@ scikit-learn
 transformers
 nltk
 You can install these dependencies using pip:
+
 pip install pandas tensorflow scikit-learn transformers nltk
 
 
