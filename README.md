@@ -1,4 +1,6 @@
-Automated Detection and Recognition of Grammatical Errors
+#Automated Detection and Recognition of Grammatical Errors
+
+
 Overview
 This project aims to automate the detection and recognition of grammatical errors in sentences using natural language processing (NLP) techniques and machine learning algorithms. The primary focus is on leveraging pre-trained BERT models for sequence classification to identify grammatical errors in sentences.
 
